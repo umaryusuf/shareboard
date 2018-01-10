@@ -1,0 +1,12 @@
+.btn-share{
+	margin-bottom: 20px;
+}
+input.form-control, select.form-control, textarea.form-control, .btn, .panel{
+    box-sizing: border-box;
+    box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.08) !important;
+    border: 1px solid #dbdbdb;
+    border-radius: 0;
+}
+textarea{
+	max-width: 100%;
+}
